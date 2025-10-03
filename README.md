@@ -1,5 +1,10 @@
 ﻿# ChatBot — Sentiment & Intent Chatbot
 
+## Link Project
+```bash
+https://drive.google.com/drive/folders/10Bbm9mJLAectCVjfRU5YLkdLKMcu5tuZ?usp=sharing
+```
+
 ## Overview
 This project provides an ontology-aware chatbot for sentiment and intent detection with a focus on Vietnamese (and some English). The system emphasizes correct handling of negation and intensity. It includes two runnable pipelines (Classic with NLTK + Keras/TensorFlow, and Transformers with BERT), a simple Tkinter GUI, pre-trained models for immediate inference, and scripts for training/evaluation.
 
@@ -178,9 +183,6 @@ No license file was found. Consider adding a LICENSE (MIT/Apache-2.0) or marking
 - Ontology tooling: owlready2.
 - Vietnamese intent and sentiment datasets curated with negation/intensity patterns.
 
-## Link Project
-```bash
-https://drive.google.com/drive/folders/10Bbm9mJLAectCVjfRU5YLkdLKMcu5tuZ?usp=sharing
-```
 - Issues and suggestions: open a GitHub issue or contact the maintainer.
+
 
